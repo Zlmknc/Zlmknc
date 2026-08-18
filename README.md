@@ -14,3 +14,62 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Özlem Akıncı</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ozlem-akinci" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:zlmakinci73@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🔭 Şu An Üzerinde Çalıştığım
+
+
+---
+
+### 📈 Sonuçlar
+
+CV'de teknoloji isimleri var; burada onların **çıktıları** var:
+
+| Proje | Yöntem Seçimi Neden Bu? | Ölçülebilir Sonuç |
+|---|---|---|
+| CKD Evreleme | SMOTE, hasta güvenliğini etkileyen yanlış-negatifi minimize etmek için tercih edildi (basit undersampling veri kaybettiriyordu) | Cross-validated pipeline ile leakage-free skor, SHAP ile klinik olarak anlamlı özellik önem sıralaması |
+| Cell Cycle Gene Detection | Tek bir resampling yöntemi yetmedi → SMOTETomek (sentetik üretim + temizlik) hibrit olarak seçildi | 13 algoritma karşılaştırıldı, Soft-Voting Ensemble en yüksek Macro F1 & MCC'yi verdi |
+| Forest Thinning (YOLOv11) | Hazır veri seti yoktu → sıfırdan video toplayıp etiketledim | Ground-truth'a karşı benchmark edilen tespit doğruluğu |
+
+*(Repo linkleri aşağıda — commit geçmişi ve notebook'lar üzerinden süreç izlenebilir.)*
+
+---
+
+### 🧩 Nasıl Çalışırım
+
+- **Leakage'a karşı paranoyakım**: Her ML projemde cross-validation pipeline'ı içine resampling/scaling'i gömerim, dışarıda bırakmam
+- **Yöntemi veriye göre seçerim, tersine değil**: %14.4 sınıf dengesizliğinde tek SMOTE yetmeyince SMOTETomek'e geçtim — bu bir tercih değil, ilk denemenin yetersiz kalmasının sonucuydu
+- **Veri yoksa üretirim**: Forest thinning projesinde hazır veri seti olmadığı için video verisini kendim topladım ve etiketledim
+
+---
+
+### 📌 Repolar
+
+**[ckd-staging-ml](#)** — Uçtan uca CKD evreleme pipeline'ı · notebook + sonuç grafikleri
+**[cell-cycle-gene-detection](#)** — 13 algoritma karşılaştırması, ensemble modeli
+**[forest-thinning-yolov11](#)** — Tez projesi, veri toplama sürecinden model eğitimine
+**[iot-access-control](#)** — Raspberry Pi + RFID + Odoo ERP entegrasyonu
+
+---
+
+### 📊 Aktivite
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zlmknc&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Zlmknc&hide_border=true" />
+</p>
+
+---
+
+📫 zlmakinci73@gmail.com · [LinkedIn](https://www.linkedin.com/in/ozlem-akinci) · Bursa, Türkiye
