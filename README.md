@@ -65,11 +65,28 @@ CV'de teknoloji isimleri var; burada onların **çıktıları** var:
 
 ### 📊 Aktivite
 
+<div align="center">
+  <!-- GitHub Genel İstatistikler -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Zlmknc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  
+  <!-- En Çok Kullanılan Diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zlmknc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+</div>
+<!-- Kompüter başında çalışan pixel kedi animasyonu -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Zlmknc&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Zlmknc&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-data/rachit_bhangale_github_stats_theme.gif" width="300"/>
 </p>
 
----
+<!-- Aktiflik / Streak Kartı İsterseniz -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zlmknc&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Zlmknc">
+    <!-- Hazırlanan özel kedi istatistik kartı -->
+    <img src="./stats-cat.svg" alt="GitHub Stats" width="480" />
+  </a>
+</div>
 
 📫 zlmakinci73@gmail.com · [LinkedIn](https://www.linkedin.com/in/ozlem-akinci) · Bursa, Türkiye
