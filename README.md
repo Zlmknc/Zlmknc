@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🔭 Şu An Üzerinde Çalıştığım
-
+Yerel AI Agent — Kişisel & Güvenli  
+periodic-genes-S  
+forest-thinning-yolov11
 
 ---
 
