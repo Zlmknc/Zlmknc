@@ -1,4 +1,39 @@
-## Hi there 👋
+<div align="center">
+
+<!-- Üst Dalga Banner (GitHub profilinizin en üstünde görsel bir çerçeve oluşturur) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,1a1a1a,3d373c,6e5a68,b497ab,f5d0e3&height=180&section=header" width="100%" />
+<h1 align="center">Özlem AKINCI</h1>  
+
+**Computer Engineer | AI & Machine Learning | IoT & Embedded Systems**  
+📍 Bursa, Turkey
+
+<br/>
+
+<!-- Piksel Karakter & ASCII / Yazı Karşılama Kutusu -->
+<table>
+  <table border="0">
+    <tr>
+      <!-- Sol: cat.jpg -->
+      <td align="center" valign="middle" width="120">
+        <img src="./cat.jpg" width="115" alt="Cat" style="border-radius: 10px;" />
+      </td>
+      <!-- Sağ: Koyu Arka Planlı ASCII Hello World Kutusu -->
+      <td align="center" valign="middle">
+        <pre><code>
+  |   |     | |       \  \ /  /       |    | |
+  |---| .-. | | .-.    \  \  /.-. .--.| .-.| |
+  |   |(.-' | |(   )    \/ \/(   )|   |(   | '
+     '   ' `--'`-`-`-'      ' '  `-' '   `-`-'`-o-o </code></pre>
+      </td>
+    </tr>
+  </table>
+
+<!-- Neon Pembe Terminal Karşılama Satırı -->
+<!-- Sırayla Yazan Terminal Karşılama Yazısı -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2600&pause=1800&color=9D76AA&center=true&vCenter=true&width=450&lines=%3E+system+online+--welcome_;%3E+keep+moving+forward...;" alt="Terminal welcome" />
+  </p>
+</div>
 
 <!--
 **Zlmknc/Zlmknc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,17 +49,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Özlem Akıncı</h1>
-
-*"Keep moving forward"* 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ozlem-akinci" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:zlmakinci73@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
@@ -34,37 +58,15 @@ periodic-genes-S
 forest-thinning-yolov11
 
 ---
+<div align="center">
 
-### 📈 Sonuçlar
+`Python` • `YOLOv11` • `Scikit-learn` • `Raspberry Pi` • `RFID` • `Pandas` • `Git`[cite: 1]
 
-CV'de teknoloji isimleri var; burada onların **çıktıları** var:
+<p>
+  <img src="https://skillicons.dev/icons?i=py,c,java,js,raspberrypi,git&theme=dark" />
+</p>
 
-| Proje | Yöntem Seçimi Neden Bu? | Ölçülebilir Sonuç |
-|---|---|---|
-| CKD Evreleme | SMOTE, hasta güvenliğini etkileyen yanlış-negatifi minimize etmek için tercih edildi (basit undersampling veri kaybettiriyordu) | Cross-validated pipeline ile leakage-free skor, SHAP ile klinik olarak anlamlı özellik önem sıralaması |
-| Cell Cycle Gene Detection | Tek bir resampling yöntemi yetmedi → SMOTETomek (sentetik üretim + temizlik) hibrit olarak seçildi | 13 algoritma karşılaştırıldı, Soft-Voting Ensemble en yüksek Macro F1 & MCC'yi verdi |
-| Forest Thinning (YOLOv11) | Hazır veri seti yoktu → sıfırdan video toplayıp etiketledim | Ground-truth'a karşı benchmark edilen tespit doğruluğu |
-
-*(Repo linkleri aşağıda — commit geçmişi ve notebook'lar üzerinden süreç izlenebilir.)*
-
----
-
-### 🧩 Nasıl Çalışırım
-
-- **Leakage'a karşı paranoyakım**: Her ML projemde cross-validation pipeline'ı içine resampling/scaling'i gömerim, dışarıda bırakmam
-- **Yöntemi veriye göre seçerim, tersine değil**: %14.4 sınıf dengesizliğinde tek SMOTE yetmeyince SMOTETomek'e geçtim — bu bir tercih değil, ilk denemenin yetersiz kalmasının sonucuydu
-- **Veri yoksa üretirim**: Forest thinning projesinde hazır veri seti olmadığı için video verisini kendim topladım ve etiketledim
-
----
-
-### 📌 Repolar
-
-**[ckd-staging-ml](#)** — Uçtan uca CKD evreleme pipeline'ı · notebook + sonuç grafikleri
-**[cell-cycle-gene-detection](#)** — 13 algoritma karşılaştırması, ensemble modeli
-**[forest-thinning-yolov11](#)** — Tez projesi, veri toplama sürecinden model eğitimine
-**[iot-access-control](#)** — Raspberry Pi + RFID + Odoo ERP entegrasyonu
-
----
+</div>
 
 ### 📊 Aktivite
 
@@ -73,6 +75,16 @@ CV'de teknoloji isimleri var; burada onların **çıktıları** var:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zlmknc&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Zlmknc&layout=donut&bg_color=0d1117&title_color=9D76AA&text_color=c5b0c9&hide_border=true" alt="Top Languages" />
+</p>
+
 ![](https://komarev.com/ghpvc/?username=Zlmknc&color=4c8c4a&style=for-the-badge&label=PROFILE+VIEWS)
 
-📫 zlmakinci73@gmail.com · [LinkedIn](https://www.linkedin.com/in/ozlem-akinci) · Bursa, Türkiye
+📫 zlmakinci73@gmail.com · [LinkedIn](https://www.linkedin.com/in/ozlem-akinci) · Bursa, Türkiye  
+<div align="center">
+  <p>˙ᵕ˙ ༘˚⋆𐙚｡ ° 𖦹. ˚</p>
+  <p>ᓚᘏᗢ ࣪˖ ִֶָ <em>"keep moving forward..."</em> ִֶָ ࣪˖ 🐾</p>
+</div>
+<!-- Alt Dalga Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,f5d0e3,b497ab,6e5a68,3d373c,1a1a1a&height=120&section=footer" width="100%" />
